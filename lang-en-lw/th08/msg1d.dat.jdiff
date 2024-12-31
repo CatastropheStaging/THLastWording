@@ -1,9 +1,143 @@
 {
     "0": {
-		"125_0": {
+        "60_0": {
             "lines": [
-                "FIGHT ME FIGHT ME FIGHT MEEEE"
-				]
-		}
-	}
+                "Hey, come on out!",
+                "I can see you wriggling around in the dark out there!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Youmu, slow down..."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "What do you mean, \"Slow down\"?",
+                "We're wasting moonlight here!"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "The quicker we find the culprit,",
+                "the sooner they'll be crushed by my blade."
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "No, that's not what I—"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "\"Crushed by my blade\"..."
+            ]
+        },
+        "125_0": {
+            "lines": [
+                "What does that even MEAN?",
+                "Are you cutting them, or crushing them?!"
+            ]
+        },
+        "126_0": {
+            "lines": [
+                "Hey, I'll crush you with it, too!",
+                "That is, after you help us out."
+            ]
+        },
+        "127_0": {
+            "lines": [
+                "Youmu...",
+				"This is \"moments before daybreak\" levels of energy."
+            ]
+        },
+        "128_0": {
+            "lines": [
+                "Like I said, slow it down a little.",
+                "The night's only just begun."
+            ]
+        },
+        "129_0": {
+            "lines": [
+                "...Great. I ran into a couple of weirdos."
+            ]
+        },
+        "130_0": {
+            "lines": [
+                "...Huh?",
+                "Youmu, look. A firefly."
+            ]
+        },
+        "131_0": {
+            "lines": [
+                "You... just noticed?"
+            ]
+        },
+        "132_0": {
+            "lines": [
+                "You know, watching fireflies is pretty fun, too.",
+                "Fancy a detour, Youmu?"
+            ]
+        },
+        "133_0": {
+            "lines": [
+                "What?! We don't have time!",
+                "Look, if you'll just give me two seconds with my Roukanken..."
+            ]
+        },
+        "134_0": {
+            "lines": [
+                "You've wasted WAY more time than me just by bantering!"
+            ]
+        },
+        "135_0": {
+            "lines": [
+                "Besides, I think you're in the minority.",
+                "Who doesn't get excited to see fireflies?"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Lady Yuyuko, we'd get through this a lot quicker",
+                "if you aimed at the enemies..."
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "Oh, come now. Haste makes waste, Youmu.",
+                "Surely you've heard that before."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Oh, right, we need to get moving!",
+                "Where are we going now, Lady Yuyuko?"
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Where, indeed... What if I just drop this",
+                "branch, and we go wherever it's pointing?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Um, are you sure...?"
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "Wait, if you tilt it like that,",
+                "it's only gonna fall one way..."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Eeny, meeny, miny...",
+				"This way!"
+            ]
+        }
+    }
 }

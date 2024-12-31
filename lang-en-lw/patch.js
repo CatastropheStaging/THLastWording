@@ -4,8 +4,8 @@
 	],
 	"id": "lang-en-lw",
 	"servers": [
-		"https://raw.githubusercontent.com/CatastropheStaging/TWLastWording/master/lang-en-lw/"
+		"https://raw.githubusercontent.com/CatastropheStaging/TWLastWording/lang-en-lw/"
 	],
 	"title": "English (Last Wording)",
-	"update": true
+	"update": false
 }
