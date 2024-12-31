@@ -1,13 +1,11 @@
 {
-	"id": "lastwording",
-	"title": "English (Last Wording)",
 	"dependencies": [
-		"nmlgc/base_tsa",
-		"nmlgc/script_latin",
-		"nmlgc/western_name_order"
+		"thpatch/lang_en"
 	],
-	"update": true,
+	"id": "lang-en-lw",
 	"servers": [
-		"https://raw.githubusercontent.com/CatastropheStaging/THLastWording/master/"
-	]
+		"https://raw.githubusercontent.com/CatastropheStaging/TWLastWording/master/lang-en-lw/"
+	],
+	"title": "English (Last Wording)",
+	"update": true
 }
