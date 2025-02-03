@@ -2,10 +2,10 @@
 	"contact": "To be added later",
 	"id": "lastwording",
 	"patches": {
-		"lang-en-lw": "English (Last Wording)"
+		"lang_en_lw": "English (Last Wording)"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/CatastropheStaging/TWLastWording/"
+		"https://raw.githubusercontent.com/CatastropheStaging/THLastWording/"
 	],
-	"title": "Project Last Wording"
+	"title": "Last Wording Translation"
 }
