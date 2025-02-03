@@ -5,7 +5,7 @@
 		"lang_en_lw": "English (Last Wording)"
 	},
 	"servers": [
-		"https://raw.githubusercontent.com/CatastropheStaging/THLastWording/"
+		"https://raw.githubusercontent.com/CatastropheStaging/THLastWording/master/"
 	],
 	"title": "Last Wording Translation"
 }
