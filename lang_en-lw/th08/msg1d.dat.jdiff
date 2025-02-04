@@ -3,7 +3,7 @@
         "60_0": {
             "lines": [
                 "Hey, come on out!",
-                "I can see you wriggling around in the dark out there!"
+                "I can see you wriggling around in the dark, y'know!"
             ]
         },
         "61_0": {
@@ -19,13 +19,13 @@
         },
         "63_0": {
             "lines": [
-                "The quicker we find the culprit,",
+                "The sooner we find the culprit,",
                 "the sooner they'll be crushed by my blade."
             ]
         },
         "64_0": {
             "lines": [
-                "No, that's not what I—"
+                "That's not quite what I—"
             ]
         },
         "65_0": {
@@ -76,7 +76,7 @@
         "132_0": {
             "lines": [
                 "You know, watching fireflies is pretty fun, too.",
-                "Fancy a detour, Youmu?"
+                "Fancy a detour, perhaps?"
             ]
         },
         "133_0": {
@@ -87,7 +87,8 @@
         },
         "134_0": {
             "lines": [
-                "You've wasted WAY more time than me just by bantering!"
+                "You've wasted WAY more time than me",
+				"with your stupid bantering!"
             ]
         },
         "135_0": {
@@ -113,7 +114,7 @@
         "62_0": {
             "lines": [
                 "Oh, right, we need to get moving!",
-                "Where are we going now, Lady Yuyuko?"
+                "So, where are we going next?"
             ]
         },
         "63_0": {
