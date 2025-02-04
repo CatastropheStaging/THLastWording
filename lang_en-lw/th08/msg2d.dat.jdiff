@@ -1,0 +1,135 @@
+{
+    "0": {
+        "60_0": {
+            "lines": [
+                "Hey, hey, STOP for a second!"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "No. Move."
+            ]
+        },
+        "61_1": {
+            "lines": [
+                "Strange...",
+				"Neither of you are reacting to my song."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "Perhaps... you guys aren't humans?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "Youmu... Do you hear a sparrow?",
+				"Odd. It's the middle of the night..."
+            ]
+        },
+        "64_1": {
+            "lines": [
+                "Lady Yuyuko, please don't pay so much",
+                "attention to its song..."
+            ]
+        },
+        "65_0": {
+            "lines": [
+                "That's a night sparrow.",
+                "Their noises are nothing but trouble."
+            ]
+        },
+        "66_0": {
+            "lines": [
+                "Trouble? Excuse me?!"
+            ]
+        },
+        "67_0": {
+            "lines": [
+                "Oh, and the sound of a ghost creeping around",
+                "is SO much more pleasant, huh?"
+            ]
+        },
+        "69_0": {
+            "lines": [
+                "Oh, definitely not. A night sparrow's",
+				"song is heavenly, in comparison."
+            ]
+        },
+        "69_1": {
+            "lines": [
+                "Hey, don't fold so easily!"
+            ]
+        },
+        "70_0": {
+            "lines": [
+                "...Youmu, listen. The cries are getting louder.",
+                "Where are they coming from, do you think?"
+            ]
+        },
+        "71_0": {
+            "lines": [
+                "Oh, never mind! Human, spirit, whatever!",
+                "I don't care!"
+            ]
+        },
+        "72_0": {
+            "lines": [
+                "How about we get to the point?",
+				"Let the youkai performance begin!"
+            ]
+        },
+        "73_0": {
+            "lines": [
+                "Anyway,",
+				"perhaps we should get going, Youmu."
+            ]
+        },
+        "74_0": {
+            "lines": [
+                "H-Huh? Well, yeah, I don't disagree...",
+                "But we kinda need to down this bird first."
+            ]
+        },
+        "75_0": {
+            "lines": [
+                "That's unfortunate... They're quite bony.",
+                "Certainly not my favorite."
+            ]
+        },
+        "76_0": {
+            "lines": [
+                "You aren't getting past me that easily!"
+            ]
+        }
+    },
+    "1": {
+        "60_0": {
+            "lines": [
+                "Lady Yuyuko, that sparrow just complicated things.",
+                "Who knows what's going to show up now?"
+            ]
+        },
+        "61_0": {
+            "lines": [
+                "We shouldn't wait around to find out.",
+                "Let's get moving."
+            ]
+        },
+        "62_0": {
+            "lines": [
+                "One second... Bone in my teeth..."
+            ]
+        },
+        "63_0": {
+            "lines": [
+                "Didn't you JUST say you don't like sparrow?"
+            ]
+        },
+        "64_0": {
+            "lines": [
+                "That's no excuse to waste food, Youmu!"
+            ]
+        }
+    }
+}
